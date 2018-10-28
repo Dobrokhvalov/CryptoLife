@@ -2,6 +2,10 @@
 
 This hack extends "invite link" functionality to "Universal Login" [EIP1077](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1077.md).
 
+# See the repos
+https://github.com/Dobrokhvalov/UniversalLoginSDK
+https://github.com/berndbohmeier/robowars
+
 
 ## Contribution
 
